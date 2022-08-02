@@ -46,6 +46,9 @@ out/
 # VS
 .vs
 
+# Env
+.env
+
 # JIRA plugin
 atlassian-ide-plugin.xml
 
